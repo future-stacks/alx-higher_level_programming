@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
- A function that returns the list of available attributes 
- and methods of an object
+ A module: Defines a lookup function
 """
 
 def lookup(obj):

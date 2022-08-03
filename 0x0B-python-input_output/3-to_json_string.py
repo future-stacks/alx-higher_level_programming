@@ -6,6 +6,7 @@ A module: Defines a function that converts native objects to json string
 # Import Module
 import json
 
+
 def to_json_string(my_obj):
     """
     Converts python native objects to json string
@@ -16,7 +17,4 @@ def to_json_string(my_obj):
     Returns:
         string (json): JSON representation of my_obj
     """
-
-	# Dictionary to JSON Object using dumps() method
-	# Return JSON Object
     return json.dumps(my_obj)

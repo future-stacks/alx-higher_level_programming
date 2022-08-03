@@ -2,7 +2,7 @@
 
 """
     A module: Function that writes to file
-""""
+"""
 
 
 def write_file(filename="", text=""):

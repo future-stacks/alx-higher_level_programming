@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 
-"""
-    A module: Function that writes to file
-""""
-
-
 def write_file(filename="", text=""):
     """
     Writes string to a file in UTF8 format
